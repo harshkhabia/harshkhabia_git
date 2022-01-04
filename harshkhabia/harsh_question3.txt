@@ -1,0 +1,9 @@
+if we want to squash all commits into one 
+	-git rebase -i master
+	here iam squashing all the commits of master branch
+
+if we have c1, c2, c3, c4 commits and we want to squash c2 and c3
+	-git rebase -i HEAD~2
+	here we have to squash c2 and c3 after commit c3 
+	this command will squash last two commits
+	

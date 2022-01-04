@@ -1,0 +1,5 @@
+cherry-pick is an special command that we use to pick commits from one branch to another.
+example-
+	if two persons are working on same repository but on different branch and one person likes feature added by another so he can cherry-pick that feature or file to his branch
+	
+	-git cherry-pick commit_id
