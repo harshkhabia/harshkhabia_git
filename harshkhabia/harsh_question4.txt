@@ -1,7 +1,0 @@
-to delete one commit
-	-git reset --hard HEAD~1
-	it will remove previous commit
-	
-to delete multiple commits
-	-git reset --hard commit_id
-	it will remove all the commits upto that commit id

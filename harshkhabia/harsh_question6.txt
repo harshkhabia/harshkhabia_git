@@ -1,4 +1,0 @@
-to unstage changes from staging area
-	- git reset HEAD file_name
-in my case 
-	-git reset HEAD temp00.txt
