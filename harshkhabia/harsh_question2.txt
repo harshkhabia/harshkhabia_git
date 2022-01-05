@@ -1,0 +1,12 @@
+we will create two remote repositories by git remote command and push command
+
+	-git remote -v
+	-git remote add repo_name1 github.com/id
+	
+	-git remote -v
+	-git remote add repo_name2 github.com/id
+	
+	than we can push in any repository acoording to our need
+	
+multiple remote repositories are made to develop our app further
+example - if we have two repository production and development so we can push local repository to production if it is final for a launch and if we want to update app or resolve bugs while app is live so we will do it in development repository so that it does not affect the production repository and app will run perfectly while developing.
