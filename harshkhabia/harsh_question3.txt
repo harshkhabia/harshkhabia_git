@@ -1,0 +1,2 @@
+if we want to squash all commits into one 
+	-git rebase -i master
