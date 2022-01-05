@@ -1,0 +1,8 @@
+if we want to squash all commits into one 
+	-git rebase -i master
+	here iam squashing all the commits of master branch
+
+if we have c1, c2, c3, c4 commits and we want to squash c2 and c3
+	-git rebase -i HEAD~4
+	than in nano we will choose s for c3 to squash them
+	
